@@ -1,0 +1,34 @@
+body {
+  background: lightSeaGreen;
+}
+
+table {
+  width: 40%;
+}
+
+th, td {
+  text-align: center;
+}
+
+table, th, td {
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+}
+
+#alpha {
+  margin-bottom: 6px;
+}
+
+#bravo {
+  margin-top: 1px;
+}
+
+#charlie {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.alpha {
+  text-align: center;
+}
